@@ -56,6 +56,7 @@ int main(void)
 	}
 
 
+	printf( "Thanks for playing\n" );
 
 	return 0;
 }
